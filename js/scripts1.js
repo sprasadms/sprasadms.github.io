@@ -34,7 +34,7 @@ function initMap() {
     return longLat;
   }
   function generateRandomPaths() {
-    for(var i = 1; i<20; i++) {
+    for(var i = 1; i<32; i++) {
       var flightPlanCoordinates = [];
       for(var j = 1; j<5; j++) {
         var randomArea = Math.floor(Math.random()*allStates.length);
