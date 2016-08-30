@@ -4,10 +4,10 @@
 * Regional distribution centers - Triangle
 * Store -  Circle
 */
-var serviceCenter = '../maps/icons/hexagon-16.png';
-var manufacture = '../maps/icons/square-16.png';
-var regDistCenter = '../maps/icons/triangle-16.png';
-var store = '../maps/icons/circle-16.png';
+var serviceCenter = '../icons/hexagon-16.png';
+var manufacture = '../icons/square-16.png';
+var regDistCenter = '../icons/triangle-16.png';
+var store = '../icons/circle-16.png';
 var allStates = citiesMap;
 console.log(allStates);
 
