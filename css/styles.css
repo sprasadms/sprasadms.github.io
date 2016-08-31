@@ -1,6 +1,24 @@
 html, body {
   height: 100%;
+  font-size: 14px;
+}
+p {
+  margin:4px;
 }
 #map {
   height: 100%;
+}
+.content {
+  width:300px;
+}
+.firstHeading{
+  margin-bottom: 0;
+}
+.locationId {
+  color: #666;
+}
+
+.active {
+  color: darkgreen;
+  font-weight: bold;
 }
