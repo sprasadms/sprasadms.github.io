@@ -1,4 +1,4 @@
-var storesData = stores;
+var storesData = storeList;
 var totalNumberOfStores = storesData.length;
 
 function initMap() {
